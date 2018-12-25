@@ -1,0 +1,10 @@
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\bin\Debug\Karty.exe.config
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\bin\Debug\Karty.exe
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\bin\Debug\Karty.pdb
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\obj\Debug\Karty.Properties.Resources.resources
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\obj\Debug\Karty.csproj.GenerateResource.cache
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\obj\Debug\Karty.csproj.CoreCompileInputs.cache
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\obj\Debug\Karty.exe
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\obj\Debug\Karty.pdb
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\obj\Debug\Karty.Game.resources
+C:\Users\Kejda\OneDrive\CSharp\Karty\Karty\obj\Debug\Karty.csprojResolveAssemblyReference.cache
