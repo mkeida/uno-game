@@ -8,7 +8,7 @@ using UNO;
 namespace UNO
 {
     /// <summary>
-    /// Main game class
+    /// Havní třída programu
     /// </summary>
     public partial class Game : Form
     {
